@@ -87,4 +87,6 @@ File hasil build berada di folder `dist/`. Pastikan binari Tesseract & Ghostscri
 
 ## Lisensi
 
-Kode aplikasi ini milik pembuatnya. Binari pihak ketiga (Ghostscript, Tesseract) memiliki lisensinya masing-masing (AGPL / Apache 2.0) dan tidak didistribusikan bersama repository ini.
+Kode aplikasi ini dirilis di bawah [MIT License](LICENSE) — bebas digunakan, dimodifikasi, dan didistribusikan.
+
+Binari pihak ketiga (Ghostscript, Tesseract) memiliki lisensinya masing-masing (AGPL / Apache 2.0) dan tidak didistribusikan bersama repository ini.
