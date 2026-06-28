@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# --- PyInstaller build output ---
+build/
+dist/
+*.manifest
+
+# --- Logs ---
+*.log
+
+# --- Bundled third-party binaries (JANGAN di-commit) ---
+# Berukuran ratusan MB & punya lisensi sendiri.
+# Pengguna mengunduhnya sendiri sesuai README.
+assets/ghostscript/
+assets/tesseract/
+tessdata/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
